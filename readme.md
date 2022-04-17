@@ -2,7 +2,7 @@
 
 ## This is my local webpack config, "heavily inspired" in Traversy Media. Feel free to use it and start your project with an initial configuration.
 
-## Steps
+Steps
 ### Clone repo
 ### npm install
 ### npm run build
