@@ -1,6 +1,6 @@
-# Webpack development environment
+## Webpack development environment
 
-## Webpack config, "heavily inspired" in Traversy Media. Feel free to use it and start building on top of an initial configuration.
+### Webpack config, "heavily inspired" in Traversy Media. Feel free to use it and start building on top of an initial configuration.
 
 ### Steps
 1. Clone repo
