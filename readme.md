@@ -11,6 +11,6 @@
 A new tab in your browser should open for http://localhost:3000/
 
 ### Versions
-1.node 14.17.0
+1. node 14.17.0
 2. npm 7.11.2
 3. webpack 5
